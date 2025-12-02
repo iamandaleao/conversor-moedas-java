@@ -1,5 +1,9 @@
 # Conversor de Moedas em Java
 
+<p align="center">
+  <img src="images/print-da-aplicacao.png" alt="Print da aplicação" width="500">
+</p>
+
 Projeto desenvolvido no curso **Praticando Java** da Alura. Um conversor de moedas interativo que utiliza uma API para obter cotações em tempo real.
 
 ## Funcionalidades
